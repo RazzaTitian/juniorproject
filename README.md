@@ -3,5 +3,5 @@ EasyPlanner adalah aplikasi manajemen waktu yang canggih yang memungkinkan pengg
 
 NAMA KELOMPOK ANDA <br />
 Ketua Kelompok:  <br />
-Anggota 1:  <br />
+Anggota 1: Marsellius - 20/456372/TK/50502<br />
 Anggota 2: 
