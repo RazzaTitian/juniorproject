@@ -10,12 +10,23 @@ Anggota 2: Rajendra Damar Setiyawan - 21/476932/TK/52525<br />
 Penjelasan class diagram: <br />
 <b> Schedule </b> <br />
 Atribut <br />
-Title: judul kegiatan yang dilakukan <br />
-Description: penjelasan singkat kegiatan (optional) <br />
-Date: tanggal kegiatan <br />
-Time: waktu kegiatan <br />
-Location: tempat kegiatan dilaksanakan <br />
+title: judul kegiatan yang dilakukan <br />
+description: penjelasan singkat kegiatan (optional) <br />
+date: tanggal kegiatan <br />
+time: waktu kegiatan <br />
+location: tempat kegiatan dilaksanakan <br />
 Metode <br />
 createSchedule(): membuat kegiatan baru <br />
 editSchedule(): mengubah kegiatan yang sudah ada <br />
 deleteSchedule(): menghapus kegiatan yang sudah ada <br />
+
+<b> Reminder </b> <br />
+Atribut <br />
+message: pesan yang tertulis dalam reminder
+date: tanggal notifikasi reminder muncul
+time: waktu notifikasi reminder muncul
+Metode <br />
+setReminder(): membuat reminder baru
+editReminder(): mengubah reminder yang sudah ada
+deleteReminder(): menghapus reminer yang sudah ada
+ringReminder(): menampilkan notifikasi reminder
