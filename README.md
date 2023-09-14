@@ -11,23 +11,23 @@ Penjelasan class diagram: <br />
 <br />
 <b> Schedule </b> <br />
 Atribut <br />
-title: judul kegiatan yang dilakukan <br />
-description: penjelasan singkat kegiatan (optional) <br />
-date: tanggal kegiatan <br />
-time: waktu kegiatan <br />
-location: tempat kegiatan dilaksanakan <br />
+title        : judul kegiatan yang dilakukan <br />
+description  : penjelasan singkat kegiatan (optional) <br />
+date         : tanggal kegiatan <br />
+time         : waktu kegiatan <br />
+location     : tempat kegiatan dilaksanakan <br />
 Metode <br />
-createSchedule(): membuat kegiatan baru <br />
-editSchedule(): mengubah kegiatan yang sudah ada <br />
-deleteSchedule(): menghapus kegiatan yang sudah ada <br />
+createSchedule()  : membuat kegiatan baru <br />
+editSchedule()    : mengubah kegiatan yang sudah ada <br />
+deleteSchedule()  : menghapus kegiatan yang sudah ada <br />
 <br />
 <b> Reminder </b> <br />
 Atribut <br />
-message: pesan yang tertulis dalam reminder<br />
-date: tanggal notifikasi reminder muncul<br />
-time: waktu notifikasi reminder muncul<br />
+message  : pesan yang tertulis dalam reminder<br />
+date     : tanggal notifikasi reminder muncul<br />
+time     : waktu notifikasi reminder muncul<br />
 Metode <br />
-setReminder(): membuat reminder baru<br />
-editReminder(): mengubah reminder yang sudah ada<br />
-deleteReminder(): menghapus reminer yang sudah ada<br />
-ringReminder(): menampilkan notifikasi reminder<br />
+setReminder()     : membuat reminder baru<br />
+editReminder()    : mengubah reminder yang sudah ada<br />
+deleteReminder()  : menghapus reminer yang sudah ada<br />
+ringReminder()    : menampilkan notifikasi reminder<br />
