@@ -5,4 +5,4 @@ NAMA KELOMPOK ANDA <br />
 Ketua Kelompok:  Muhammad Razza Titian Jiwani - 21/475348/TK/52470<br />
 Anggota 1: Marsellius - 20/456372/TK/50502<br />
 Anggota 2: Rajendra Damar Setiyawan - 21/476932/TK/52525<br />
-![image](https://github.com/RazzaTitian/juniorproject/assets/93211629/7c92196f-24f1-49b6-9960-9fc5d3bdcd8e)
+![image](https://github.com/RazzaTitian/juniorproject/assets/93211629/707c17eb-dc43-4ea0-ae30-405bfebadd5d)
