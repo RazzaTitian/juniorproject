@@ -9,7 +9,7 @@ Anggota 2: Rajendra Damar Setiyawan - 21/476932/TK/52525<br />
 <br />
 Penjelasan class diagram: <br />
 <br />
-<b> Schedule </b> <br />
+<b># A Schedule </b> <br />
 Atribut <br />
 title        : judul kegiatan yang dilakukan <br />
 description  : penjelasan singkat kegiatan (optional) <br />
