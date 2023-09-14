@@ -9,7 +9,7 @@ Anggota 2: Rajendra Damar Setiyawan - 21/476932/TK/52525<br />
 ## Penjelasan Class Diagram <br />
 ![image](https://github.com/RazzaTitian/juniorproject/assets/93211629/106c9225-ad30-4905-9206-d4ac593a3468)
 <br />
-<b> Schedule </b> <br />
+### <b> Schedule </b> <br />
 Atribut <br />
 title        : judul kegiatan yang dilakukan <br />
 description  : penjelasan singkat kegiatan (optional) <br />
@@ -21,7 +21,7 @@ createSchedule()  : membuat kegiatan baru <br />
 editSchedule()    : mengubah kegiatan yang sudah ada <br />
 deleteSchedule()  : menghapus kegiatan yang sudah ada <br />
 <br />
-<b> Reminder </b> <br />
+### <b> Reminder </b> <br />
 Atribut <br />
 message  : pesan yang tertulis dalam reminder <br />
 date     : tanggal notifikasi reminder muncul <br />
