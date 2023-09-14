@@ -11,7 +11,7 @@ Penjelasan class diagram: <br />
 <br />
 <b> Schedule </b> <br />
 Atribut <br />
-title<bt />: judul kegiatan yang dilakukan <br />
+title: judul kegiatan yang dilakukan <br />
 description: penjelasan singkat kegiatan (optional) <br />
 date: tanggal kegiatan <br />
 time: waktu kegiatan <br />
