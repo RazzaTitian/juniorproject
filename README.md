@@ -22,11 +22,11 @@ deleteSchedule(): menghapus kegiatan yang sudah ada <br />
 
 <b> Reminder </b> <br />
 Atribut <br />
-message: pesan yang tertulis dalam reminder
-date: tanggal notifikasi reminder muncul
-time: waktu notifikasi reminder muncul
+message: pesan yang tertulis dalam reminder<br />
+date: tanggal notifikasi reminder muncul<br />
+time: waktu notifikasi reminder muncul<br />
 Metode <br />
-setReminder(): membuat reminder baru
-editReminder(): mengubah reminder yang sudah ada
-deleteReminder(): menghapus reminer yang sudah ada
-ringReminder(): menampilkan notifikasi reminder
+setReminder(): membuat reminder baru<br />
+editReminder(): mengubah reminder yang sudah ada<br />
+deleteReminder(): menghapus reminer yang sudah ada<br />
+ringReminder(): menampilkan notifikasi reminder<br />
