@@ -19,7 +19,7 @@ Metode <br />
 createSchedule(): membuat kegiatan baru <br />
 editSchedule(): mengubah kegiatan yang sudah ada <br />
 deleteSchedule(): menghapus kegiatan yang sudah ada <br />
-
+<br />
 <b> Reminder </b> <br />
 Atribut <br />
 message: pesan yang tertulis dalam reminder<br />
