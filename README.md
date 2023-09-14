@@ -8,6 +8,7 @@ Anggota 2: Rajendra Damar Setiyawan - 21/476932/TK/52525<br />
 ![image](https://github.com/RazzaTitian/juniorproject/assets/93211629/106c9225-ad30-4905-9206-d4ac593a3468)
 <br />
 Penjelasan class diagram: <br />
+<br />
 <b> Schedule </b> <br />
 Atribut <br />
 title: judul kegiatan yang dilakukan <br />
