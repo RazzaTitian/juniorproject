@@ -29,10 +29,8 @@ namespace EasyPlanner_2
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             this.lbDays = new System.Windows.Forms.Label();
             this.lbEvent = new System.Windows.Forms.Label();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // lbDays
@@ -54,10 +52,6 @@ namespace EasyPlanner_2
             this.lbEvent.TabIndex = 1;
             this.lbEvent.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // timer1
-            // 
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
             // UserControlDays
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -77,6 +71,5 @@ namespace EasyPlanner_2
 
         private System.Windows.Forms.Label lbDays;
         private System.Windows.Forms.Label lbEvent;
-        private System.Windows.Forms.Timer timer1;
     }
 }

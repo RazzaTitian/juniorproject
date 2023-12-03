@@ -32,12 +32,12 @@ namespace EasyPlanner_2
         private void UserControlDays_Click(object sender, EventArgs e)
         {
             static_day = lbDays.Text;
-            timer1.Start();
+            // timer1.Start();
             Form2 form2 = new Form2();
             form2.Show();
         }
 
-        private void displayEvent()
+        /* private void displayEvent()
         {
             try
             {
@@ -45,7 +45,7 @@ namespace EasyPlanner_2
                 {
                     conn.Open();
 
-                    string selectSql = "SELECT event_title FROM tb_events WHERE event_date = @event_date";
+                    string selectSql = "SELECT event_title FROM tb_events WHERE event_date = @event_date::date"; // Menggunakan konversi ke tipe data date
 
                     // Format tanggal sesuai dengan kolom "event_date" pada tabel tb_events
                     string formattedDate = $"{Form1.static_year}-{Form1.static_month:00}-{static_day:00}";
@@ -59,7 +59,7 @@ namespace EasyPlanner_2
                             if (reader.Read())
                             {
                                 string eventTitle = reader["event_title"].ToString();
-                                lbEvent.Text = "Event Title: " + eventTitle;
+                                lbEvent.Text = eventTitle;
                             }
                             else
                             {
@@ -75,9 +75,10 @@ namespace EasyPlanner_2
             }
         }
 
+
         private void timer1_Tick(object sender, EventArgs e)
         {
             displayEvent();
-        }
+        } */
     }
 }
